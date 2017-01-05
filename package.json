@@ -35,7 +35,7 @@
     "ember-export-application-global": "^1.0.5",
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
-    "eonasdan-bootstrap-datetimepicker-npm": "ashu07/bootstrap-datetimepicker#c4c55f8127f5da51176517922f8601ad951324bd",
+    "eonasdan-bootstrap-datetimepicker-npm": "ashu07/bootstrap-datetimepicker#fceb37b3fe502b7630c47320ebecbf917d949a2e",
     "loader.js": "^4.0.1",
     "moment": "^2.15.0",
     "moment-timezone": "^0.5.5"
